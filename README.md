@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Tiwari</h1>
-<h3 align="center">-🖥️Learning Web Development and UI/UX Designing. <br>-🏫CSE undergrad at KIIT Bhubaneshwar.</h3>
+<h3 align="center">-🖥️Learning Web Development and UI/UX Designing.<br> -🏫CSE undergrad at KIIT Bhubaneshwar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2083&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2083" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi2083" alt="abhi2083" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://abhi2083.github.io/Personal-Webapp/](https://abhi2083.github.io/Personal-Webapp/)
+
+- 📫 How to reach me **Abhishektiwari2083@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhi-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-codes" height="30" width="40" /></a>
+<a href="https://instagram.com/abhi._tiwari._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi._tiwari._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
