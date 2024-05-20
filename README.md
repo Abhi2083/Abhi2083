@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Tiwari</h1>
-<h3 align="center">-🖥️Learning Web Development and Machine Learning. <br>-🏫CSE undergrad at KIIT Bhubaneshwar.</h3>
+<h3 align="center">-🖥️Learning Web Development and UI/UX Designing. <br>-🏫CSE undergrad at KIIT Bhubaneshwar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2083&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2083" /> </p>
 
